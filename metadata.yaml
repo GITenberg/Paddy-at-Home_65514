@@ -1,11 +1,16 @@
 _repo: Paddy-at-Home_65514
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65514-h/images/cover.jpg
 creator:
   author:
     agent_name: Mandat-Grancey, E. de
     gutenberg_agent_id: '53387'
     url: http://www.gutenberg.org/2009/agents/53387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65514#Paddy-at-Home
 gutenberg_issued: '2021-06-05'
 gutenberg_type: Text
 identifiers:
